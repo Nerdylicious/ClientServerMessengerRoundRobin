@@ -1,6 +1,8 @@
 Client-Server Messenger Round Robin
 ====================================
 
+A client-server implementation of a messenger. If the current server is down, the IP address of an alternative server will be provided in round robin fashion from an available pool of servers.
+
 Platform: Linux
 
 1. Compile source code
